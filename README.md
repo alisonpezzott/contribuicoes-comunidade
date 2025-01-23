@@ -14,11 +14,12 @@ Painel com as minhas contribuições com a comunidade por data, descrição, cat
 |2025-01-17|Que comecem os jogos|Linkedin|Post|Business Intelligence|https://www.linkedin.com/posts/alisonpezzott_que-comecem-os-jogos-activity-7285858318147817473-vLsr/|
 |2025-01-16|TMDL View Power BI - Primeiras impressões|YouTube|Vídeo|Power BI|https://youtu.be/RO35mRk02bI|
 |2025-01-16|tmdl-calendario|GitHub|Repositório|Power BI|https://github.com/alisonpezzott/tmdl-calendario|
+|2025-01-14|O que importa é o conteúdo|Linkedin|Post|Soft Skills|https://www.linkedin.com/posts/alisonpezzott_ah-mas-%C3%A9-s%C3%B3-jogar-no-chat-gpt-que-ele-activity-7284910180402630656-UeF3|
+|2025-01-23|Os dados não estão batendo|Linkedin|Post|Power BI|https://www.linkedin.com/posts/alisonpezzott_mas-os-dados-n%C3%A3o-est%C3%A3o-batendo-voc%C3%AA-activity-7284719737186508800-qqdh/|
 |2025-01-11|Aumente a performance do Power BI com arquivos Parquet!|YouTube|Vídeo|Fabric|https://youtu.be/NnvTRmS1Noo|
 |2025-01-11|Aumente a performance do Power BI com arquivos Parquet!|Linkedin|Artigo|Fabric|https://www.linkedin.com/posts/alisonpezzott_ah-mas-%C3%A9-s%C3%B3-jogar-no-chat-gpt-que-ele-activity-7284910180402630656-UeF3|
 |2025-01-11|csv-to-parquet|GitHub|Repositório|Fabric|https://github.com/alisonpezzott/csv-to-parquet|
 |2025-01-07|Adeus PBIX! Bem-vindo PBIP!|YouTube|Vídeo|Power BI, Fabric, GitHub|https://youtu.be/Yog22N2Lq14|
-|2025-01-15|O que importa é o conteúdo|Linkedin|Post|Soft Skills|https://www.linkedin.com/posts/alisonpezzott_ah-mas-%C3%A9-s%C3%B3-jogar-no-chat-gpt-que-ele-activity-7284910180402630656-UeF3|
 |2024-11-20|Como alterar o modo de avaliação do heatmap no Power BI|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/como-alterar-o-mode-de-avalia%25C3%25A7%25C3%25A3o-do-heatmap-power-bi-alison-pezzott-dg1lf/|
 |2024-10-30|Conversões de moedas no Power BI|YouTube|Vídeo|Power BI|https://youtu.be/IeJZQMcXdMM|
 |2024-10-29|API de Cotações do Banco Central do Brasil no Power BI|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/api-de-cota%25C3%25A7%25C3%25B5es-do-banco-central-brasil-power-bi-alison-pezzott-1biff/?trackingId=dbgOB%2BtkRdCeN1Y4WOWLbg%3D%3D|
@@ -29,10 +30,9 @@ Painel com as minhas contribuições com a comunidade por data, descrição, cat
 |2024-09-30|📢Atualização Importante! Novo GitHub + dCalendario + dPeriodos + Script Tabular Editor 🤯|YouTube|Vídeo|Fabric, Youtube|https://youtu.be/VAeApCOkn_Q|
 |2024-08-02|Descomplicando o Código em M: Estudo de Caso em Soma Acumulada por Categoria|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/descomplicando-o-c%25C3%25B3digo-em-m-estudo-de-caso-soma-por-alison-pezzott-wgdlf/|
 |2024-07-05|\[DAX] Formatação Duração DateTime HH\:MM:SS e por extenso|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/dax-formata%25C3%25A7%25C3%25A3o-dura%25C3%25A7%25C3%25A3o-datetime-hhmmss-e-por-extenso-alison-pezzott-v2dkf/|
-|2024-06-29|Semana do ano ISO 8601 vs Padrão Power Query vs WEEKNUM DAX|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/semana-do-ano-iso-8601-vs-padr%25C3%25A3o-power-query-weeknum-dax-pezzott-zttdf/?trackingId=dbgOB%2BtkRdCeN1Y4WOWLbg%3D%3D|
-|2024-02-13|ADDCOLUMNS(DAX) + Table.AddColumn(Power Query M)|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/addcolumnsdax-tableaddcolumnpower-query-m-alison-pezzott-uwvjf/?trackingId=dbgOB%2BtkRdCeN1Y4WOWLbg%3D%3D|
-|2023-04-22|DimCalendario: a tabela mais importante do seu modelo no Power BI|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/dimcalendario-tabela-mais-importante-do-seu-modelo-power-pezzott/?trackingId=dbgOB%2BtkRdCeN1Y4WOWLbg%3D%3D|
-|||||||
+|2024-06-29|Semana do ano ISO 8601 vs Padrão Power Query vs WEEKNUM DAX|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/semana-do-ano-iso-8601-vs-padr%25C3%25A3o-power-query-weeknum-dax-pezzott-zttdf/|
+|2024-02-13|ADDCOLUMNS(DAX) + Table.AddColumn(Power Query M)|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/addcolumnsdax-tableaddcolumnpower-query-m-alison-pezzott-uwvjf/|
+|2023-04-22|DimCalendario: a tabela mais importante do seu modelo no Power BI|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/dimcalendario-tabela-mais-importante-do-seu-modelo-power-pezzott/|
 |||||||
 |||||||
 |||||||
