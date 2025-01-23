@@ -46,6 +46,7 @@ Painel com as minhas contribuições com a comunidade por data, descrição, cat
 |2024-07-05|\[DAX] Formatação Duração DateTime HH\:MM:SS e por extenso|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/dax-formata%25C3%25A7%25C3%25A3o-dura%25C3%25A7%25C3%25A3o-datetime-hhmmss-e-por-extenso-alison-pezzott-v2dkf/|
 |2024-06-29|Semana do ano ISO 8601 vs Padrão Power Query vs WEEKNUM DAX|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/semana-do-ano-iso-8601-vs-padr%25C3%25A3o-power-query-weeknum-dax-pezzott-zttdf/|
 |2024-06-22|LIVE #3 - Como utilizar layouts do FIGMA no Power BI passando pelo GitHub|YouTube|Live|Power BI, GitHub|https://youtube.com/live/qR1jPVdEQUM|
+|2024-06-24|#PodCast 016 - Power BI e Linguagem DAX - Windows Functions com Alison Pezzott|YouTube|Live|Power BI|https://www.youtube.com/live/dzwDj8fk6pQ/|
 |2024-06-16|LIVE #2 - Minha nova marca / dCalendarioV5 / Design System Manager no Figma / Tema Json / Template 🤯|YouTube|Live|Power BI|https://youtube.com/live/SgrHRF4lEOY|
 |2024-02-13|ADDCOLUMNS(DAX) + Table.AddColumn(Power Query M)|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/addcolumnsdax-tableaddcolumnpower-query-m-alison-pezzott-uwvjf/|
 |2023-20-11|LIVE #1 - COMO EVOLUIR EM DAX? DOWNLOAD NA DESCRIÇÂO!|YouTube|Live|power BI|https://youtube.com/live/RrMq8t6Gy8Q|
