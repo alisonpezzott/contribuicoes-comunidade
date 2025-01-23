@@ -1,4 +1,4 @@
-# Minhas contribuições com a comunidade técnina de Microsoft Fabric e Power BI  
+# Minhas contribuições com a comunidade técnica de Microsoft Fabric e Power BI  
 
 Painel com as minhas contribuições com a comunidade por data, descrição, categoria e link
 
