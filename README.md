@@ -26,6 +26,7 @@ Painel com as minhas contribuições com a comunidade por data, descrição, cat
 |2024-10-28|API de cotações do Banco Central no Power BI|YouTube|Video|Power BI|https://youtu.be/J_LGwbN1Jjk|
 |2024-10-25|Padronização e melhores práticas no Power Query|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/padroniza%25C3%25A7%25C3%25A3o-e-melhores-pr%25C3%25A1ticas-power-query-alison-pezzott-06ene/|
 |2024-10-23|\[POWERQUERY] List.Accumulate & Table.TransformColumns|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/powerquery-listaccumulate-tabletransformcolumns-alison-pezzott-2grff/|
+|2024-09-30|📢Atualização Importante! Novo GitHub + dCalendario + dPeriodos + Script Tabular Editor 🤯|YouTube|Vídeo|Fabric, Youtube|https://youtu.be/VAeApCOkn_Q|
 |2024-08-02|Descomplicando o Código em M: Estudo de Caso em Soma Acumulada por Categoria|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/descomplicando-o-c%25C3%25B3digo-em-m-estudo-de-caso-soma-por-alison-pezzott-wgdlf/|
 |2024-07-05|\[DAX] Formatação Duração DateTime HH\:MM:SS e por extenso|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/dax-formata%25C3%25A7%25C3%25A3o-dura%25C3%25A7%25C3%25A3o-datetime-hhmmss-e-por-extenso-alison-pezzott-v2dkf/|
 |2024-06-29|Semana do ano ISO 8601 vs Padrão Power Query vs WEEKNUM DAX|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/semana-do-ano-iso-8601-vs-padr%25C3%25A3o-power-query-weeknum-dax-pezzott-zttdf/?trackingId=dbgOB%2BtkRdCeN1Y4WOWLbg%3D%3D|
