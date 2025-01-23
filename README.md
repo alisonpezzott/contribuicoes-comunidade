@@ -31,6 +31,7 @@ Painel com as minhas contribuições com a comunidade por data, descrição, cat
 |2024-12-20|Power Summit Brazil 2024|Post|Linkedin|Evento|https://www.linkedin.com/posts/alisonpezzott_hoje-foi-um-dia-cheio-de-troca-de-conhecimento-activity-7276017190477139968-mYji/|
 |2024-12-05|ALIVE #13 com Alison Pezzott - Tratamento de dados em nível HARD! @MVP_Hugo_Venturini|YouTube|Live|Power BI|https://www.youtube.com/live/OasWHw3Dtuw|
 |2024-11-20|Como alterar o modo de avaliação do heatmap no Power BI|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/como-alterar-o-mode-de-avalia%25C3%25A7%25C3%25A3o-do-heatmap-power-bi-alison-pezzott-dg1lf/|
+|2024-11-07|Otimizando Análises DAX com Window Functions no Power BI \| Maratona Power Platform 2ª Edição @MVP_Pedro_Paulo_Ferreira|YouTube|Live|Power BI|https://www.youtube.com/live/dzASHz0QnjQ/|
 |2024-12-11|🔴Live #5 Especial com Fábio Gatti: Recursividade e Loops no Power Query 🔴|YouTube|Live|Power BI|https://youtube.com/live/ALH1_DzMP2s|
 |2024-10-30|Conversões de moedas no Power BI|YouTube|Vídeo|Power BI|https://youtu.be/IeJZQMcXdMM|
 |2024-10-29|API de Cotações do Banco Central do Brasil no Power BI|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/api-de-cota%25C3%25A7%25C3%25B5es-do-banco-central-brasil-power-bi-alison-pezzott-1biff/?trackingId=dbgOB%2BtkRdCeN1Y4WOWLbg%3D%3D|
