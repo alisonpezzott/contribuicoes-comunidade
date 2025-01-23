@@ -48,8 +48,11 @@ Painel com as minhas contribuições com a comunidade por data, descrição, cat
 |2024-06-22|LIVE #3 - Como utilizar layouts do FIGMA no Power BI passando pelo GitHub|YouTube|Live|Power BI, GitHub|https://youtube.com/live/qR1jPVdEQUM|
 |2024-06-24|#PodCast 016 - Power BI e Linguagem DAX - Windows Functions com Alison Pezzott|YouTube|Live|Power BI|https://www.youtube.com/live/dzwDj8fk6pQ/|
 |2024-06-16|LIVE #2 - Minha nova marca / dCalendarioV5 / Design System Manager no Figma / Tema Json / Template 🤯|YouTube|Live|Power BI|https://youtube.com/live/SgrHRF4lEOY|
+|2024-06-10|A Diferença entre um Amador e Especialista em Power BI @mvp_Gerson_Viergutz|YouTube|Live|Power BI|https://www.youtube.com/live/vBTBXqcGtE4/|
+|2024-06-05|Live #05: O poder do Power Query e suas boas práticas. Com Alison Pezzott|YouTube|Live|Power BI|https://www.youtube.com/watch?v=S42G0lmfqIQ|
 |2024-02-13|ADDCOLUMNS(DAX) + Table.AddColumn(Power Query M)|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/addcolumnsdax-tableaddcolumnpower-query-m-alison-pezzott-uwvjf/|
-|2023-20-11|LIVE #1 - COMO EVOLUIR EM DAX? DOWNLOAD NA DESCRIÇÂO!|YouTube|Live|power BI|https://youtube.com/live/RrMq8t6Gy8Q|
+|2024-12-18|DAX Avançado para Dataviz com Alison Pezzott @mvp_Gerson_Viergutz|YouTube|Live|Power BI|https://www.youtube.com/live/3LIrsQ_IkAg|
+|2023-20-11|LIVE #1 - COMO EVOLUIR EM DAX? DOWNLOAD NA DESCRIÇÂO!|YouTube|Live|Power BI|https://youtube.com/live/RrMq8t6Gy8Q|
 |2023-04-22|DimCalendario: a tabela mais importante do seu modelo no Power BI|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/dimcalendario-tabela-mais-importante-do-seu-modelo-power-pezzott/|
 |||||||
 |||||||
