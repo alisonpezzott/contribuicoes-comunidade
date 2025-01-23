@@ -28,11 +28,15 @@ Painel com as minhas contribuições com a comunidade por data, descrição, cat
 |2025-01-03|🔥 O Microsoft Excel não é um sistema de gerenciamento de banco de dados relacional.|Linkedin|Post|Power BI|https://www.linkedin.com/posts/alisonpezzott_o-microsoft-excel-n%C3%A3o-%C3%A9-um-sistema-de-activity-7281012078356697088-whhZ/|
 |2025-01-02|🚫🗓️🔫 Não use dCalendário no Power BI!|Linkedin|Post|Power BI|https://www.linkedin.com/posts/alisonpezzott_n%C3%A3o-use-dcalend%C3%A1rio-no-power-bi-activity-7280701641928900608-CKSK/|
 |2024-12-30|Tenho muitos motivos para agradecer ainda em 2024!|Linkedin|Post|Soft Skills|https://www.linkedin.com/posts/alisonpezzott_tenho-muitos-motivos-para-agradecer-ainda-activity-7279374401618214912-1pq2/|
+|2024-12-20|Power Summit Brazil 2024|Post|Linkedin|Evento|https://www.linkedin.com/posts/alisonpezzott_hoje-foi-um-dia-cheio-de-troca-de-conhecimento-activity-7276017190477139968-mYji/|
+|2024-12-05|ALIVE #13 com Alison Pezzott - Tratamento de dados em nível HARD! @MVP_Hugo_Venturini|YouTube|Live|Power BI|https://www.youtube.com/live/OasWHw3Dtuw|
 |2024-11-20|Como alterar o modo de avaliação do heatmap no Power BI|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/como-alterar-o-mode-de-avalia%25C3%25A7%25C3%25A3o-do-heatmap-power-bi-alison-pezzott-dg1lf/|
+|2024-12-11|🔴Live #5 Especial com Fábio Gatti: Recursividade e Loops no Power Query 🔴|YouTube|Live|Power BI|https://youtube.com/live/ALH1_DzMP2s|
 |2024-10-30|Conversões de moedas no Power BI|YouTube|Vídeo|Power BI|https://youtu.be/IeJZQMcXdMM|
 |2024-10-29|API de Cotações do Banco Central do Brasil no Power BI|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/api-de-cota%25C3%25A7%25C3%25B5es-do-banco-central-brasil-power-bi-alison-pezzott-1biff/?trackingId=dbgOB%2BtkRdCeN1Y4WOWLbg%3D%3D|
 |2024-10-29|cotacoes-bcb|GitHub|Repositório|Power BI|https://github.com/alisonpezzott/cotacoes-bcb|
 |2024-10-28|API de cotações do Banco Central no Power BI|YouTube|Video|Power BI|https://youtu.be/J_LGwbN1Jjk|
+|2024-12-28|Dica DAX: Há quantos projetos por ano?|Linkedin|Post|Power BI|https://www.linkedin.com/posts/alisonpezzott_dica-dax-como-calcular-projetos-por-ano-activity-7278897413799444480-INVK|
 |2024-10-25|Padronização e melhores práticas no Power Query|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/padroniza%25C3%25A7%25C3%25A3o-e-melhores-pr%25C3%25A1ticas-power-query-alison-pezzott-06ene/|
 |2024-10-23|\[POWERQUERY] List.Accumulate & Table.TransformColumns|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/powerquery-listaccumulate-tabletransformcolumns-alison-pezzott-2grff/|
 |2024-09-30|📢Atualização Importante! Novo GitHub + dCalendario + dPeriodos + Script Tabular Editor 🤯|YouTube|Vídeo|Fabric, Youtube|https://youtu.be/VAeApCOkn_Q|
