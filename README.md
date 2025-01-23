@@ -40,12 +40,21 @@ Painel com as minhas contribuições com a comunidade por data, descrição, cat
 |2024-10-25|Padronização e melhores práticas no Power Query|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/padroniza%25C3%25A7%25C3%25A3o-e-melhores-pr%25C3%25A1ticas-power-query-alison-pezzott-06ene/|
 |2024-10-23|\[POWERQUERY] List.Accumulate & Table.TransformColumns|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/powerquery-listaccumulate-tabletransformcolumns-alison-pezzott-2grff/|
 |2024-09-30|📢Atualização Importante! Novo GitHub + dCalendario + dPeriodos + Script Tabular Editor 🤯|YouTube|Vídeo|Fabric, Youtube|https://youtu.be/VAeApCOkn_Q|
+|2024-08-22|LIVE #4 - Resolvendo cases reais da comunidade 01|YouTube|Live|Power BI|https://youtube.com/live/TRQ6pYp90fA|
 |2024-08-02|Descomplicando o Código em M: Estudo de Caso em Soma Acumulada por Categoria|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/descomplicando-o-c%25C3%25B3digo-em-m-estudo-de-caso-soma-por-alison-pezzott-wgdlf/|
 |2024-07-05|\[DAX] Formatação Duração DateTime HH\:MM:SS e por extenso|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/dax-formata%25C3%25A7%25C3%25A3o-dura%25C3%25A7%25C3%25A3o-datetime-hhmmss-e-por-extenso-alison-pezzott-v2dkf/|
 |2024-06-29|Semana do ano ISO 8601 vs Padrão Power Query vs WEEKNUM DAX|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/semana-do-ano-iso-8601-vs-padr%25C3%25A3o-power-query-weeknum-dax-pezzott-zttdf/|
+|2024-06-22|LIVE #3 - Como utilizar layouts do FIGMA no Power BI passando pelo GitHub|YouTube|Live|Power BI, GitHub|https://youtube.com/live/qR1jPVdEQUM|
+|2024-06-16|LIVE #2 - Minha nova marca / dCalendarioV5 / Design System Manager no Figma / Tema Json / Template 🤯|YouTube|Live|Power BI|https://youtube.com/live/SgrHRF4lEOY|
 |2024-02-13|ADDCOLUMNS(DAX) + Table.AddColumn(Power Query M)|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/addcolumnsdax-tableaddcolumnpower-query-m-alison-pezzott-uwvjf/|
+|2023-20-11|LIVE #1 - COMO EVOLUIR EM DAX? DOWNLOAD NA DESCRIÇÂO!|YouTube|Live|power BI|https://youtube.com/live/RrMq8t6Gy8Q|
 |2023-04-22|DimCalendario: a tabela mais importante do seu modelo no Power BI|Linkedin|Artigo|Power BI|https://www.linkedin.com/pulse/dimcalendario-tabela-mais-importante-do-seu-modelo-power-pezzott/|
 |||||||
 |||||||
 |||||||
+
+
+
+
+
 
